@@ -1,4 +1,4 @@
-### Oii, eu sou o Bruno Padilha
+### Oii, eu sou o Bruno
 
 - 🌱 Estudando Scala e cursando ADS no IFRS-Campus Restinga
 - 📫 Contate-me no e-mail: Bruno_p_cunha@hotmail.com
